@@ -9,7 +9,8 @@ Whether it's coding, problem-solving, or diving into the latest tech trends, I t
 
 #### 📫 Get in Touch
 I'm always open to connecting with like-minded individuals. You can find me on [LinkedIn](https://www.linkedin.com/in/dhruv-rami/), and I look forward to connecting with you!
-
+<br/><br/><br/>
+*Thanks for stopping by, and happy coding! 🚀*
 <!--
 **dhruvrami/dhruvrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
