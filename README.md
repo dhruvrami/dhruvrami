@@ -3,8 +3,7 @@
 Hello there! I'm Dhruv, a passionate Software Engineer believing in the power of technology to drive positive change.
 
 #### 🚀 About Me
-I bring 9 years of experience in Software Engineering, and I'm always excited to tackle new challenges. I'm currently working as a Software Engineer at Microsoft.
-<br/><br/>
+I bring 10 years of experience in Software Engineering, and I'm always excited to tackle new challenges.
 Whether it's coding, problem-solving, or diving into the latest tech trends, I thrive on continuous learning and growth.
 
 #### 📫 Get in Touch
